@@ -1,4 +1,11 @@
 ### Hi there, I'm Ediberto 👋
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="images/Twitterlogo"  />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
+
+<br />
 
 
 ## I'm a Developer 💻 , Student 📚 and caffe lover ☕ !!
@@ -10,14 +17,6 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ediberto45)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="images/Twitterlogo"  />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
-
-<br />
 
 
 ### Languages and Tools:
