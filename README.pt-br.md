@@ -11,18 +11,18 @@
 <br />
 
 
-## I'm a Developer 💻 , Student 📚 and caffe lover ☕ !!
+## Sou desenvolvedor 💻 , Estudante 📚 and amante de café ☕ !!
 
 - 🔭 Atualmente estou desenvolvendo: [My Nutri](https://github.com/EdibertoLima/Mynutri_aplication)
 - 🌱 Atualmente estou estudando NodeJs e Typescript 
 
 
-### Spotify Playing 🎧
+### Escutando Spotify  🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ediberto45)
 
 
-### Languages and Tools:
+### Linguagem e ferramentas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -42,14 +42,14 @@
 
 ---
 
-### 📺 Personal projects full Stack
+### 📺 Projetos pessoais em full Stack
 
 <!-- Personal projects:START -->
-- [My nutri aplication in flutter...](https://github.com/EdibertoLima/API-rest_Node)
-- [keep it safe pliacation in React-native](https://github.com/EdibertoLima/keep_it_safe)
-- [Back end My nutri with Node.js](https://github.com/EdibertoLima/API-rest_Node)
-- [API application in rest-full with docker](https://github.com/EdibertoLima/API-rest_Node)
-- [System the arquives whith P2P](https://github.com/EdibertoLima/Sis_aquivos_p2p)
+- [My nutri aplicação em flutter...](https://github.com/EdibertoLima/API-rest_Node)
+- [keep it safe aplicação em React-native](https://github.com/EdibertoLima/keep_it_safe)
+- [Back-end My nutri com Node.js](https://github.com/EdibertoLima/API-rest_Node)
+- [API em rest-full com docker](https://github.com/EdibertoLima/API-rest_Node)
+- [Sistema de arquivos P2P](https://github.com/EdibertoLima/Sis_aquivos_p2p)
 <!-- Personal projects:END -->
 
 
@@ -58,18 +58,18 @@
 ### 📕 Machine learning projects
 
 <!-- BLOG-POST-LIST:START -->
-- [Knn with python and extrator wavelets](https://github.com/EdibertoLima/Knn-python)
-- [Implantation the knn in Embedded systems](https://github.com/EdibertoLima/Knn-python)
-- [MLP Matlab and extrator ](https://github.com/EdibertoLima/Knn-python)
-- [MLP whith python and extrator](https://github.com/EdibertoLima/Knn-python)
-- [Implantation the MLP in Embedded systems](https://github.com/EdibertoLima/Knn-python)
-- [Hash game whit minimax](https://github.com/EdibertoLima/IA)
+- [Knn com python e extrator wavelets](https://github.com/EdibertoLima/Knn-python)
+- [Implamentação de knn em sistema embarcado](https://github.com/EdibertoLima/Knn-python)
+- [MLP com Matlab ](https://github.com/EdibertoLima/Knn-python)
+- [MLP com python](https://github.com/EdibertoLima/Knn-python)
+- [Implamentação de MLP em sistema embarcado](https://github.com/EdibertoLima/Knn-python)
+- [Jogo da velha com minimax](https://github.com/EdibertoLima/IA)
 <!-- BLOG-POST-LIST:END -->
 
-### 🔆 Aleatory Projects
-- [Game chinese lady in JAVA](https://github.com/EdibertoLima/damachinesarmi)
-- [monitoring cameras ](https://github.com/EdibertoLima/Cameras_dvr)
-- [DES encryption in Embedded system](https://github.com/EdibertoLima/DES-Encryption-Algorithm-semb-)
+### 🔆 Projetos Aleatórios
+- [Jogo dama chinesa JAVA](https://github.com/EdibertoLima/damachinesarmi)
+- [monitorando cameras ](https://github.com/EdibertoLima/Cameras_dvr)
+- [DES criptografia em sistema embarcado](https://github.com/EdibertoLima/DES-Encryption-Algorithm-semb-)
 
 
 ---
@@ -88,9 +88,9 @@ END_SECTION:activity
 </details>-->
 
 <details>
-  <summary>:zap: GitHub Stats and Most Used Languages</summary>
+  <summary>:zap: GitHub status e principais linguagens usadas</summary>
 
-  <img align="left" alt="Edibeto's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EdibertoLima&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Edibeto's GitHub status" src="https://github-readme-stats.codestackr.vercel.app/api?username=EdibertoLima&show_icons=true&hide_border=true&theme=dark" />
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EdibertoLima&langs_count=4&theme=dark" />
 
 </details>
