@@ -1,7 +1,7 @@
 ### Hi there, I'm Ediberto 👋
 
 
-## I'm a Developer, and Gamer!!
+## I'm a Developer, and Student!!
 
 - 🔭 I’m currently working on: [My Nutri](https://github.com/EdibertoLima/Mynutri_aplication)
 - 🌱 I’m currently learning NodeJs and Typescript 
