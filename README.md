@@ -63,7 +63,7 @@
 - [Hash game whit minimax](https://github.com/EdibertoLima/IA)
 <!-- BLOG-POST-LIST:END -->
 
-### 🥅 Aleatory Projects
+### ❗️ Aleatory Projects
 - [Game chinese lady in JAVA](https://github.com/EdibertoLima/damachinesarmi)
 - [monitoring cameras ](https://github.com/EdibertoLima/Cameras_dvr)
 - [DES encryption in Embedded system](https://github.com/EdibertoLima/DES-Encryption-Algorithm-semb-s)
@@ -87,7 +87,7 @@ END_SECTION:activity
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Edibeto's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EdibertoLima&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Edibeto's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EdibertoLima&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
