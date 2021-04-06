@@ -67,7 +67,7 @@
 ### 🔆 Aleatory Projects
 - [Game chinese lady in JAVA](https://github.com/EdibertoLima/damachinesarmi)
 - [monitoring cameras ](https://github.com/EdibertoLima/Cameras_dvr)
-- [DES encryption in Embedded system](https://github.com/EdibertoLima/DES-Encryption-Algorithm-semb-s)
+- [DES encryption in Embedded system](https://github.com/EdibertoLima/DES-Encryption-Algorithm-semb-)
 
 
 ---
