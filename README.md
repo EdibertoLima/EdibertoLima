@@ -1,4 +1,7 @@
 ### Hi there, I'm Ediberto 👋
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/EdibertoLima/EdibertoLima/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/EdibertoLima/EdibertoLima/README.pt-br.md)
+
 #### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="images/Twitterlogo"  />][twitter]
