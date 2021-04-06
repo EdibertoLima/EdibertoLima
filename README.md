@@ -26,6 +26,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left"alt="PHP" width="26px" src="https://cpng.pikpng.com/pngl/s/160-1603662_aol-logo-transparent-icone-php-png-clipart.png" /> 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -63,7 +64,7 @@
 - [Hash game whit minimax](https://github.com/EdibertoLima/IA)
 <!-- BLOG-POST-LIST:END -->
 
-### ❗️ Aleatory Projects
+### 🔆 Aleatory Projects
 - [Game chinese lady in JAVA](https://github.com/EdibertoLima/damachinesarmi)
 - [monitoring cameras ](https://github.com/EdibertoLima/Cameras_dvr)
 - [DES encryption in Embedded system](https://github.com/EdibertoLima/DES-Encryption-Algorithm-semb-s)
