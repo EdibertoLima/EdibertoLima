@@ -11,7 +11,7 @@
 <br />
 
 
-## Sou desenvolvedor 💻 , Estudante 📚 e amante de café ☕ !!
+## Sou desenvolvedor 💻 , Estudante 📚 e amante de café ☕ !! 
 
 - 🔭 Atualmente estou desenvolvendo: [My Nutri](https://github.com/EdibertoLima/Mynutri_aplication)
 - 🌱 Atualmente estou estudando NodeJs e Typescript 
@@ -55,7 +55,7 @@
 
 ---
 
-### 📕 Machine learning projects
+### 📕 Projetos com Machine learning 
 
 <!-- BLOG-POST-LIST:START -->
 - [Knn com python e extrator wavelets](https://github.com/EdibertoLima/Knn-python)
