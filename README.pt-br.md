@@ -11,7 +11,7 @@
 <br />
 
 
-## Sou desenvolvedor 💻 , Estudante 📚 and amante de café ☕ !!
+## Sou desenvolvedor 💻 , Estudante 📚 e amante de café ☕ !!
 
 - 🔭 Atualmente estou desenvolvendo: [My Nutri](https://github.com/EdibertoLima/Mynutri_aplication)
 - 🌱 Atualmente estou estudando NodeJs e Typescript 
