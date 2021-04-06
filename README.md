@@ -42,9 +42,6 @@
 <br />
 <br />
 
-<br />
-<br />
-
 ---
 
 ### 📺 Personal projects full Stack
