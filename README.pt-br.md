@@ -1,6 +1,6 @@
 ### Olá eu sou Ediberto 👋
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/EdibertoLima/EdibertoLima/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/EdibertoLima/EdibertoLima/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/EdibertoLima/blob/master/EdibertoLima/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/EdibertoLima/EdibertoLima/blob/master/README.pt-br.md)
 
 #### Contate-me:
 
