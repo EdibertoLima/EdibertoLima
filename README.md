@@ -1,7 +1,7 @@
 ### Hi there, I'm Ediberto 👋
 
 
-## I'm a Developer, and Teacher!!
+## I'm a Developer, and Gamer!!
 
 - 🔭 I’m currently working on: [My Nutri](https://github.com/EdibertoLima/Mynutri_aplication)
 - 🌱 I’m currently learning NodeJs and Typescript 
@@ -45,8 +45,8 @@
 - [My nutri aplication in flutter...](https://github.com/EdibertoLima/API-rest_Node)
 - [keep it safe pliacation in React-native](https://github.com/EdibertoLima/keep_it_safe)
 - [Back end My nutri with Node.js](https://github.com/EdibertoLima/API-rest_Node)
-- [API application in rest-full with docker](https://www.youtube.com/watch?v=jpox3uizTs8)
-- [System the arquives whith P2P](https://www.youtube.com/watch?v=x4gu6JGwKAI)
+- [API application in rest-full with docker](https://github.com/EdibertoLima/API-rest_Node)
+- [System the arquives whith P2P](https://github.com/EdibertoLima/Sis_aquivos_p2p)
 <!-- Personal projects:END -->
 
 
