@@ -85,7 +85,7 @@ END_SECTION:activity
 </details>-->
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats and Most used landguages</summary>
 
   <img align="left" alt="Edibeto's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EdibertoLima&show_icons=true&hide_border=true&theme=dark" />
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EdibertoLima&langs_count=4&theme=dark" />
